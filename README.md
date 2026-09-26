@@ -215,7 +215,3 @@ See `requirements.txt`. Core dependencies:
 - [ ] Add embedding caching for repeated/identical queries
 
 ---
-
-## License
-
-MIT — feel free to use, modify, and build on this.
